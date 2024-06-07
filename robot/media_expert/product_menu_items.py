@@ -1,0 +1,5 @@
+AGD = 'AGD'
+TV_AUDIO_RTV = 'TV, Audio i RTV'
+FOTO_CAMERAS = 'Foto i kamery'
+DRONY_I_AKCESORIA = 'Drony i akcesoria'
+MINI_DRONY = 'Mini drony'
